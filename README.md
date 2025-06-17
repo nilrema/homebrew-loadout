@@ -37,7 +37,7 @@ brew upgrade loadout-app
 
 ## Feedback and Issues
 
-If you encounter any problems with the Homebrew installation process, please [file an issue](https://www.google.com/search?q=https://github.com/nilrema/homebrew-loadout/issues) in this repository.
+If you encounter any problems with the Homebrew installation process, please file an issue in this repository.
 
 For feedback or bugs related to the Loadout application itself, please refer to the app's main support channels.
 
