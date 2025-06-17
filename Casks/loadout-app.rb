@@ -6,8 +6,7 @@ cask "loadout-app" do
   
     name "Loadout"
     desc "A simple menu bar app for dragging and dropping files and sharing them via AirDrop"
-  
-    # This is the name of the app bundle inside the .dmg.
+
     app "Loadout.app"
 
     auto_updates true

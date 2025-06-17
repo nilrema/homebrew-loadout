@@ -43,4 +43,4 @@ For feedback or bugs related to the Loadout application itself, please refer to 
 
 ## What is This Repository?
 
-This Git repository contains only the installation scripts (known as Casks) needed for Homebrew to install the Loadout software. The actual source code for the Loadout application is maintained in a separate repository.
+This Git repository contains only the installation scripts (known as Casks) needed for Homebrew to install the Loadout software. The actual source code for the Loadout application is maintained in a different repository.
