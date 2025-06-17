@@ -1,7 +1,7 @@
 
 # Loadout Homebrew Tap
 
-> The official [Homebrew](https://brew.sh) tap for installing [Loadout].
+> The official [Homebrew](https://brew.sh) tap for installing Loadout.
 
 This repository contains the installation formula that allows you to easily install, update, and manage the Loadout application directly from your command line.
 
