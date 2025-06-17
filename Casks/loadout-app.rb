@@ -6,7 +6,6 @@ cask "loadout-app" do
   
     name "Loadout"
     desc "A simple menu bar app for dragging and dropping files and sharing them via AirDrop"
-    homepage "https://your-app-homepage.com/"
   
     # This is the name of the app bundle inside the .dmg.
     app "Loadout.app"
